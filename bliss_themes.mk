@@ -78,7 +78,8 @@ PRODUCT_PACKAGES += \
     AccentTeal \
     AccentTruFilPink \
     AccentWarmthOrange \
-    AccentWhite
+    AccentWhite \
+    AccentColorMint
 
 # Primary Themes
 #PRODUCT_PACKAGES += \
