@@ -93,28 +93,28 @@ PRODUCT_PACKAGES += \
     PrimaryDarkBlue
 
 # QS tile styles
-PRODUCT_PACKAGES += \
-    QSTileDefault \
-    QSTileCircleTrim \
-    QSTileCircleDualTone \
-    QSTileCircleGradient \
-    QSTileCircleOutline \
-    QSTileCookie \
-    QSTileDottedCircle \
-    QSTileDualToneCircle \
-    QSTileInk \
-    QSTileInkdrop \
-    QSTileMountain \
-    QSTileNinja \
-    QSTileOreo \
-    QSTileOreoCircleTrim \
-    QSTileOreoSquircleTrim \
-    QSTilePokesign \
-    QSTileSquaremedo \
-    QSTileSquircle \
-    QSTileSquircleTrim \
-    QSTileTeardrop \
-    QSTileWavey
+#PRODUCT_PACKAGES += \
+#    QSTileDefault \
+#    QSTileCircleTrim \
+#    QSTileCircleDualTone \
+#    QSTileCircleGradient \
+#    QSTileCircleOutline \
+#    QSTileCookie \
+#    QSTileDottedCircle \
+#    QSTileDualToneCircle \
+#    QSTileInk \
+#    QSTileInkdrop \
+#    QSTileMountain \
+#    QSTileNinja \
+#    QSTileOreo \
+#    QSTileOreoCircleTrim \
+#    QSTileOreoSquircleTrim \
+#    QSTilePokesign \
+#    QSTileSquaremedo \
+#    QSTileSquircle \
+#    QSTileSquircleTrim \
+#    QSTileTeardrop \
+#    QSTileWavey
 
 # Themes
 #PRODUCT_PACKAGES += \
