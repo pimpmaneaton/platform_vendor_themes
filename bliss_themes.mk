@@ -31,54 +31,54 @@ PRODUCT_PACKAGES += \
 
 # Accent Themes
 PRODUCT_PACKAGES += \
-    AccentSluttyPink \
-    AccentPixel \
-    AccentGoldenShower \
-    AccentDeepOrange \
-    AccentWhite \
-    AccentTeal \
-    AccentFromHell \
-    AccentBlueMonday \
-    AccentSmokingGreen \
-    AccentDeadRed \
-    AccentRottenOrange \
-    AccentDeepPurple \
     AccentBliss \
-    AccentCandyRed \
-    AccentExtendedGreen \
-    AccentJadeGreen \
-    AccentPaleBlue \
-    AccentPaleRed \
-    AccentObfusBleu \
-    AccentNotImpPurple \
-    AccentHolillusion \
-    AccentMoveMint \
-    AccentFootprintPurple \
+    AccentBlueMonday \
     AccentBubblegumPink \
+    AccentBurningRed \
+    AccentCandyRed \
+    AccentColdEveningBleu \
+    AccentColdSummerYellow \
+    AccentDeadRed \
+    AccentDeepOrange \
+    AccentDeepPurple \
+    AccentDiffDayGreen \
+    AccentDreamyPurple \
+    AccentDuskPurple \
+    AccentExtendedGreen \
+    AccentFlare \
+    AccentFootprintPurple \
     AccentFrenchBleu \
+    AccentFromHell \
+    AccentGoldenShower \
+    AccentHazedPink \
+    AccentHeirloomBleu \
+    AccentHolillusion \
+    AccentIllusionsPurple \
+    AccentJadeGreen \
     AccentManiaAmber \
     AccentMisticBrown \
-    AccentSeasideMint \
-    AccentDreamyPurple \
-    AccentSpookedPurple \
-    AccentHeirloomBleu \
-    AccentTruFilPink \
-    AccentWarmthOrange \
-    AccentColdBleu \
-    AccentDiffDayGreen \
-    AccentDuskPurple \
-    AccentBurningRed \
-    AccentHazedPink \
-    AccentColdYellow \
+    AccentMoveMint \
     AccentNewHouseOrange \
-    AccentIllusionsPurple \
-    AccentFlare \
-    AccentSublime \
-    AccentSincityRed \
+    AccentNotImpPurple \
+    AccentObfusBleu \
     AccentOrangeCoral \
+    AccentPaleBlue \
+    AccentPaleRed \
+    AccentPixel \
     AccentPureLust \
     AccentQuepal \
-    AccentShadesOfGrey
+    AccentRottenOrange \
+    AccentSeasideMint \
+    AccentShadesOfGrey \
+    AccentSincityRed \
+    AccentSluttyPink \
+    AccentSmokingGreen \
+    AccentSpokedPurple \
+    AccentSublime \
+    AccentTeal \
+    AccentTruFilPink \
+    AccentWarmthOrange \
+    AccentWhite
 
 # Primary Themes
 #PRODUCT_PACKAGES += \
