@@ -15,15 +15,15 @@
 #
 
 # Misc Themes
-PRODUCT_PACKAGES += \
-    NotificationsDark \
-    NotificationsLight \
-    DocumentsUITheme \
-    NotificationsPrimary \
-    NotificationsBlack \
-    DialerTheme \
-    TelecommTheme \
-    DocumentsUITheme
+#PRODUCT_PACKAGES += \
+#    NotificationsDark \
+#    NotificationsLight \
+#    DocumentsUITheme \
+#    NotificationsPrimary \
+#    NotificationsBlack \
+#    DialerTheme \
+#    TelecommTheme \
+#    DocumentsUITheme
 
 # Fonts
 PRODUCT_PACKAGES += \
