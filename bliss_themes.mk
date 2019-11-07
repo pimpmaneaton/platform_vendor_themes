@@ -81,16 +81,16 @@ PRODUCT_PACKAGES += \
     AccentShadesOfGrey
 
 # Primary Themes
-PRODUCT_PACKAGES += \
-    PrimaryAlmostBlack \
-    PrimaryBlack \
-    PrimaryBliss \
-    PrimaryBlissClear \
-    PrimaryEyeSoother \
-    PrimaryWhite \
-    PrimaryColdWhite \
-    PrimaryWarmWhite \
-    PrimaryDarkBlue
+#PRODUCT_PACKAGES += \
+#    PrimaryAlmostBlack \
+#    PrimaryBlack \
+#    PrimaryBliss \
+#    PrimaryBlissClear \
+#    PrimaryEyeSoother \
+#    PrimaryWhite \
+#    PrimaryColdWhite \
+#    PrimaryWarmWhite \
+#    PrimaryDarkBlue
 
 # QS tile styles
 #PRODUCT_PACKAGES += \
