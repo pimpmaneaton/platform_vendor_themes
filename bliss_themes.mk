@@ -26,8 +26,8 @@
 #    DocumentsUITheme
 
 # Fonts
-PRODUCT_PACKAGES += \
-    BlissFonts
+#PRODUCT_PACKAGES += \
+#    BlissFonts
 
 # Accent Themes
 PRODUCT_PACKAGES += \
