@@ -79,7 +79,27 @@ PRODUCT_PACKAGES += \
     AccentTruFilPink \
     AccentWarmthOrange \
     AccentWhite \
-    AccentColorMint
+    AccentColorMint \
+    AndroidOneGreen \
+    AospaGreen \
+    CocaColaRed \
+    DiscordPurple \
+    FacebookBlue \
+    InstagramCerise \
+    JollibeeCrimson \
+    MonsterEnergyGreen \
+    NextbitMint \
+    OneplusRed \
+    PepsiBlue \
+    PocophoneYellow \
+    RazerGreen \
+    SamsungBlue \
+    SpotifyGreen \
+    StarbucksGreen \
+    TwitchPurple \
+    TwitterBlue \
+    XboxGreen \
+    XiaomiOrange
 
 PRODUCT_COPY_FILES += \
     vendor/themes/prebuilt/system/fonts/Aclonica.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Aclonica.ttf \
